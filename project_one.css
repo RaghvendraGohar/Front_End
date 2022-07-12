@@ -1,0 +1,27 @@
+
+p{
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 15px;
+}
+
+body{
+    background-color: #14213d;
+    border: 50px solid #a8dadc;
+    border-top: 0px;
+    text-align: center;
+    color: aliceblue;
+}
+form{
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+#sub{
+    background-color: #FF9F1C;
+    height: 80px;
+    width: 150px;
+    margin-top: 10px;
+    font-size: 1em;
+    border-radius: 25px;
+}
